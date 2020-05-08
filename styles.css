@@ -1,0 +1,74 @@
+html{
+  font: Courier, serif;
+}
+
+tr {
+  margin:0px;
+  padding:0px;
+  border:0px;
+  cellspacing:0px;
+}
+
+tr  {
+  margin-bottom:-5px;
+}
+
+#wrap  {
+  width: 1040px;
+  margin:30px auto;
+}
+
+#content  {
+  width: calc(100% - 450px);
+  margin:0 auto;
+}
+
+#video  {
+  width: 800px;
+  margin:0 auto;
+}
+
+h1  {
+  padding:0 0 5px 0;
+  text-align: center;
+  letter-spacing: 0.1em;
+  font-size: 3em;
+}
+
+h2  {
+  padding:0 0 5px 0;
+  margin-bottom:100px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  font-size: 2em;
+}
+
+
+
+hr  {
+  width: calc(100% - 200px);
+}
+
+.date {
+  padding:10px 0 10px 0;
+}
+
+a {
+  color:#000;
+}
+
+a:hover {
+  color:#000
+}
+
+a:link {
+  color:#000
+}
+
+a:visited {
+  color:#000
+}
+
+a:active {
+  color:#000
+}
